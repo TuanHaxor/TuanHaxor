@@ -1,5 +1,5 @@
 <h1 align="center"># TuanHaxor #
-<div style="position: fixed; bottom: 0px;left: 10px;width:130px;height:160px;"><img src="https://i.gifer.com/8XAT.gif" /></div></h1>
+<div style="position: fixed; bottom: 0px;left: 10px;width:130px;height:160px;"><img src="https://www.ralt.hw.ac.uk/assets/images/aing.gif" /></div></h1>
 <h3 align="center">A boy from Indonesia who is interested in learning new things</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tuanhaxor&label=Profile%20views&color=0e75b6&style=flat" alt="tuanhaxor" /> </p>
