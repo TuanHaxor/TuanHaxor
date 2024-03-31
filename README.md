@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm TuanHaxor</h1>
+<h1 align="center"># TuanHaxor #</h1>
+<div style="position: fixed; bottom: 0px;left: 10px;width:130px;height:160px;"><img src="https://2.bp.blogspot.com/-7I6T61lxO_E/U4WoH1232aI/AAAAAAAAAmg/mqBfJoUB0mw/s1600/animasi-bergerak-naruto-melawan-sasuke.gif" /></div>
 <h3 align="center">A boy from Indonesia who is interested in learning new things</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tuanhaxor&label=Profile%20views&color=0e75b6&style=flat" alt="tuanhaxor" /> </p>
@@ -13,7 +14,7 @@
 
 - 💬 Ask me about **Age, where I live, how I'm doing**
 
-- 📫 How to reach me **tuanhaxor@protonmail.com**
+- 📫 How to reach me **tuanhaxor@proton.me**
 
 - ⚡ Fun fact **Maybe I'm a little beyond your expectations**
 
